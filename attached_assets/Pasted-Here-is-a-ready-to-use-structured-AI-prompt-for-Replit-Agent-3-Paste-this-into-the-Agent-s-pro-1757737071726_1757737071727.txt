@@ -1,0 +1,107 @@
+Here is a ready-to-use, **structured AI prompt** for Replit Agent 3. Paste this into the Agent’s prompt input. It’s detailed to ensure your website is professional, “international” in look/feel, strong for EU compliance, and fully leverages your product catalogues.
+
+***
+
+**Prompt for Replit Agent 3:**  
+*(You can attach EarthlyPlates.pdf and Bagasse.pdf when using this prompt)*
+
+***
+
+**Project Goal:**  
+Build an international-standard company website for “Earthly Plates International” to present areca and bagasse eco-friendly tableware for export, using attached catalogues for all product content. The site must have a professional EU look/feel (clean, modern, trust-focused), position us as an export leader, and drive global inquiries. Catalogue PDFs must be downloadable.  
+
+**Must-have Features:**  
+1. **Homepage:**  
+   - Hero section (European/international styling, eco-friendly, global trade imagery).  
+   - Brief brand and value proposition—trusted, certified Indian export partner.  
+   - Quick links to Product Categories, Certificates, and Contact.
+
+2. **Product Pages for Areca Tableware and Bagasse Tableware:**  
+   - Use attached PDFs for all product details, specs, images, and descriptions.
+   - Organize products by type (plates, bowls, trays, clamshells, etc.), with gallery, sizes, key features, certifications, and downloads.
+   - Highlight certifications, standards, unique selling points (e.g., biodegradable, private label, export-ready).
+
+3. **Why Choose Us / Value Proposition:**  
+   - Global certifications & compliance (FSC, ISO 9001, FSSC 22000, USDA Biobased, BSCI, CTPAT, ISPM-15, etc.).
+   - Flexible terms (custom branding, MOQs, full export compliance docs, third-party testing).
+   - End-to-end export process management, international logistics (FOB, CIF, DDP), and stress-free trade for buyers.
+
+4. **About Us Page:**  
+   - Earthly Plates International’s story, sustainability mission, clean manufacturing process (summarize from catalogues).
+   - International buyers (UK/EU/global), global supply chain strengths, trusted manufacturing network.
+
+5. **Contact/Inquiries page:**  
+   - Form (name, email, company, country, message, “I want to import…” dropdown).
+   - All details also shown:  
+     - Email: earthlyplatesinternational@gmail.com  
+     - WhatsApp button (ALWAYS STICKY BOTTOM of all pages, +91 9359365622—click to WhatsApp chat, web & mobile).  
+     - Website & company contact info.  
+
+6. **Catalogue Downloads:**  
+   - Download buttons for both Areca and Bagasse product catalogues as PDFs.
+
+7. **SEO and Internationalization:**  
+   - Clean, semantic HTML.
+   - SEO titles, meta descriptions, alt text.
+   - Legal/privacy links for EU visitors (GDPR, cookie notice – placeholder is OK).
+
+8. **Mobile First / Accessibility:**  
+   - Fully responsive and modern; passes Lighthouse and accessibility checks (contrast, alt text, keyboard use).
+
+**Nice-to-have Features:**  
+- Testimonials (leave placeholders if none)
+- Blog/News (industry updates, sustainability, certifications)
+- Google Map embed (company location)
+- Multiple language support (optional)
+- “Partner with Us” section for distributors/wholesalers.
+
+**Exporter-specific musts:**  
+- Prominent certifications/trust badges.
+- Section highlighting export documentation, shipping options, flexible MOQ, private label/OEM support.
+- FAQ (minimum order, private label, compliance, shipping, lead time).
+- Sustainability pledge, eco-facts graphic.
+- “From India to the World” process visual/steps.
+
+**UI/Visual Style:**  
+- White or neutral backgrounds, green/blue accents, modern clean fonts (EU preference).
+- Product and certification badges/logos, eco/globe/trade icons.
+- Professional, uncluttered navigation.
+
+**Technical Preferences:**  
+- Next.js/React for frontend (flexible if you suggest better stack).
+- Well-structured folders for `/products/areca`, `/products/bagasse`.
+- All code, assets, and PDFs organized. Simple instructions to swap catalogues later.
+
+**Testing:**  
+- WhatsApp button present and functional on all devices/pages.
+- Product pages match provided catalogues.
+- All links, forms, and downloads work.
+
+**Process:**  
+- Start with Plan mode: share site structure/wireframes before code.
+- Attach both product catalogues for content.
+- Ready to iterate on design/layout before final build.
+
+***
+
+**(Files provided: EarthlyPlates.pdf, Bagasse.pdf)**
+
+***
+
+**What else to add (as exporter):**  
+- Section with downloadable certifications and sample compliance docs (CoO, FDA, Phytosanitary, etc.)
+- Gallery of export packaging, logistics, and sample shipments.
+- Map or list of export markets covered (EU/UK flags, “trusted by clients in…”)
+- Export partner or logistics partner logos.
+- Trade fair participation / awards (if available—leave placeholder).
+- “Request Bulk Quote” CTA in multiple places.
+- Clear FAQ for international buyers.
+- Policy and ethics statements (no child labor, environmental responsibility, etc.).
+
+***
+
+**Copy/attach this entire prompt and your PDF files when working with Replit Agent 3.**  
+If you want further customization for sections, wording, or exporter info, let me know!
+
+[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/90178193/12e3441e-fbd9-4499-982b-e8f07cced535/EarthlyPlates.pdf)
+[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/90178193/489e3a03-8f78-40be-93cd-70a82c4a631f/Bagasse.pdf)
